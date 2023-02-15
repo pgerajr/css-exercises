@@ -19,7 +19,7 @@ p, div{
   font-size: 36px;
 }
 
-.odd:nth-child(3){
+.odd#cool{
   font-size: 24px;
 }
 
