@@ -71,12 +71,7 @@ body {
   height: 80px;
 }
 
-.footer_item-2 {
-  border: 5px solid rgb(233, 139, 139);
-  background-color: rgb(224, 204, 180);
-  flex: 1;
-}
-
+.footer_item-2,
 .footer_item-3 {
   border: 5px solid rgb(233, 139, 139);
   background-color: rgb(224, 204, 180);
