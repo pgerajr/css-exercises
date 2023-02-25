@@ -41,7 +41,6 @@ ul {
 }
 
 .sidebar {
-  /* min-width: 200px; */
   padding: 30px;
   flex-shrink: 0;
 }
